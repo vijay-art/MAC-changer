@@ -1,2 +1,3 @@
 # ethical-hacking
-python tools which is usefull for penetration testing and ethical hacking
+This tool can be use for change MAC Address of your linux machine
+# More advance tools soon available.
