@@ -1,0 +1,7 @@
+To run this tool you just need to open your linux machine terminal where file is placed
+
+type command
+
+  python python2_MAC_changer.py
+
+
