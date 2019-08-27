@@ -1,0 +1,19 @@
+To run this tool you just need to open your linux machine terminal where file is placed
+
+type command
+ 
+  for tool(python2_MAC_changer.py
+
+  terminal = python python2_MAC_changer.py
+  
+  for tool(python3_MAC_changer.py)
+
+  terminal = python3 python3_MAC_changer.py
+
+  for tool (command_line_MAC_changer)
+
+  terminal = python3/python2 command_line_MAC.py
+
+
+
+  I hope it will help you to know how to use that three tools
